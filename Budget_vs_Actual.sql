@@ -33,7 +33,7 @@ ISNULL(A.BaseAmount,0) ActualExp,ISNULL(A.BaseAmount,0)-ISNULL(B.BudgetAmount,0)
 
  FROM C
 
- select* from VBudgetActual
+ 
 
 
  
